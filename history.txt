@@ -1,1 +1,4 @@
-Hola this is the first line and he has 15 years
+This the story of a new datascientist
+
+Hola this is the second line and he is 20 years old
+
